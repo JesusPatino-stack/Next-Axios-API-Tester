@@ -1,0 +1,1 @@
+export const surveyEndPoint = 'https://selfcheckdev.utc.edu/user'
